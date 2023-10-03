@@ -1,2 +1,2 @@
 # codsoft_2
-This repo has the tasks which I completed during my internship at CodSoft
+This repo has two tasks (calculator & flashlight) which I completed during my internship at CodSoft as an Android Developer
